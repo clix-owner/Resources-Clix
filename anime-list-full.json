@@ -197639,7 +197639,14 @@
     "anisearch_id": 12693,
     "kitsu_id": 40583,
     "mal_id": 35542,
-    "simkl_id": 1573285
+    "simkl_id": 1573285,
+    "themoviedb_id": {
+      "tv": 122859
+    },
+    "tvdb_id": 332504,
+    "imdb_id": [
+      "tt22493766"
+    ]
   },
   {
     "type": "TV",
@@ -197745,7 +197752,14 @@
     "anisearch_id": 13723,
     "kitsu_id": 41216,
     "mal_id": 37749,
-    "simkl_id": 767895
+    "simkl_id": 767895,
+    "themoviedb_id": {
+      "tv": 122871
+    },
+    "tvdb_id": 426306,
+    "imdb_id": [
+      "tt22940354"
+    ]
   },
   {
     "type": "TV",
@@ -197870,7 +197884,12 @@
     "kitsu_id": 41480,
     "livechart_id": 3114,
     "mal_id": 37365,
-    "simkl_id": 768711
+    "simkl_id": 768711,
+    "themoviedb_id": {
+      "movie": [
+        532009
+      ]
+    }
   },
   {
     "type": "TV",
@@ -198101,7 +198120,15 @@
     "kitsu_id": 41398,
     "livechart_id": 3121,
     "mal_id": 37398,
-    "simkl_id": 772775
+    "simkl_id": 772775,
+    "themoviedb_id": {
+      "movie": [
+        752976
+      ]
+    },
+    "imdb_id": [
+      "tt16977370"
+    ]
   },
   {
     "type": "TV",
@@ -200313,7 +200340,15 @@
     "anisearch_id": 8635,
     "kitsu_id": 9757,
     "mal_id": 18329,
-    "simkl_id": 1573339
+    "simkl_id": 1573339,
+    "themoviedb_id": {
+      "movie": [
+        1403611
+      ]
+    },
+    "imdb_id": [
+      "tt40210273"
+    ]
   },
   {
     "type": "ONA",
@@ -200426,7 +200461,12 @@
     "anisearch_id": 8618,
     "kitsu_id": 9756,
     "mal_id": 18331,
-    "simkl_id": 798733
+    "simkl_id": 798733,
+    "themoviedb_id": {
+      "movie": [
+        815014
+      ]
+    }
   },
   {
     "type": "SPECIAL",
@@ -200991,7 +201031,15 @@
     "anisearch_id": 13360,
     "kitsu_id": 41135,
     "mal_id": 37180,
-    "simkl_id": 831421
+    "simkl_id": 831421,
+    "themoviedb_id": {
+      "movie": [
+        458186
+      ]
+    },
+    "imdb_id": [
+      "tt6903084"
+    ]
   },
   {
     "type": "ONA",
@@ -201165,7 +201213,11 @@
     "simkl_id": 811255,
     "imdb_id": [
       "tt8304798"
-    ]
+    ],
+    "themoviedb_id": {
+      "tv": 107036
+    },
+    "tvdb_id": 385277
   },
   {
     "type": "ONA",
@@ -201393,7 +201445,12 @@
     "anisearch_id": 13994,
     "kitsu_id": 41299,
     "mal_id": 37827,
-    "simkl_id": 815811
+    "simkl_id": 815811,
+    "themoviedb_id": {
+      "movie": [
+        1323653
+      ]
+    }
   },
   {
     "type": "MOVIE",
@@ -202177,7 +202234,14 @@
     "livechart_id": 3328,
     "mal_id": 37968,
     "simkl_id": 837491,
-    "animenewsnetwork_id": 21368
+    "animenewsnetwork_id": 21368,
+    "themoviedb_id": {
+      "tv": 93561
+    },
+    "tvdb_id": 355541,
+    "imdb_id": [
+      "tt12987362"
+    ]
   },
   {
     "type": "OVA",
@@ -202481,7 +202545,15 @@
     "anime-planet_id": "hong-mao-lan-tu-huo-feng-huang",
     "anisearch_id": 19943,
     "mal_id": 39132,
-    "simkl_id": 841875
+    "simkl_id": 841875,
+    "themoviedb_id": {
+      "movie": [
+        799845
+      ]
+    },
+    "imdb_id": [
+      "tt1664684"
+    ]
   },
   {
     "type": "TV",
@@ -202645,7 +202717,14 @@
     "kitsu_id": 41881,
     "livechart_id": 3347,
     "mal_id": 38016,
-    "simkl_id": 856909
+    "simkl_id": 856909,
+    "themoviedb_id": {
+      "tv": 136029
+    },
+    "tvdb_id": 385257,
+    "imdb_id": [
+      "tt27599304"
+    ]
   },
   {
     "type": "MOVIE",
@@ -202796,7 +202875,15 @@
     "anisearch_id": 12541,
     "kitsu_id": 40991,
     "mal_id": 37100,
-    "simkl_id": 847433
+    "simkl_id": 847433,
+    "themoviedb_id": {
+      "movie": [
+        462927
+      ]
+    },
+    "imdb_id": [
+      "tt6857250"
+    ]
   },
   {
     "type": "TV",
@@ -204041,7 +204128,10 @@
     "kitsu_id": 42041,
     "livechart_id": 3455,
     "mal_id": 38147,
-    "simkl_id": 876041
+    "simkl_id": 876041,
+    "themoviedb_id": {
+      "tv": 111259
+    }
   },
   {
     "type": "TV",
@@ -204318,7 +204408,12 @@
     "anisearch_id": 11942,
     "kitsu_id": 12662,
     "mal_id": 34038,
-    "simkl_id": 879897
+    "simkl_id": 879897,
+    "themoviedb_id": {
+      "movie": [
+        1112670
+      ]
+    }
   },
   {
     "type": "MOVIE",
@@ -204614,7 +204709,14 @@
     "kitsu_id": 41954,
     "livechart_id": 3475,
     "mal_id": 38203,
-    "simkl_id": 887851
+    "simkl_id": 887851,
+    "themoviedb_id": {
+      "tv": 82985
+    },
+    "tvdb_id": 353983,
+    "imdb_id": [
+      "tt15539248"
+    ]
   },
   {
     "type": "ONA",
@@ -205695,7 +205797,15 @@
     "anime-planet_id": "underdog",
     "anisearch_id": 11643,
     "mal_id": 40765,
-    "simkl_id": 905067
+    "simkl_id": 905067,
+    "themoviedb_id": {
+      "movie": [
+        571645
+      ]
+    },
+    "imdb_id": [
+      "tt9493708"
+    ]
   },
   {
     "type": "MOVIE",
@@ -207832,7 +207942,15 @@
     "anisearch_id": 14034,
     "livechart_id": 8373,
     "mal_id": 38743,
-    "simkl_id": 976457
+    "simkl_id": 976457,
+    "themoviedb_id": {
+      "movie": [
+        605962
+      ]
+    },
+    "imdb_id": [
+      "tt10415220"
+    ]
   },
   {
     "type": "TV",
@@ -208099,7 +208217,14 @@
     "mal_id": 38611,
     "simkl_id": 1239419,
     "anime-planet_id": "power-battle-watch-car",
-    "animecountdown_id": 1239419
+    "animecountdown_id": 1239419,
+    "themoviedb_id": {
+      "tv": 72477
+    },
+    "tvdb_id": 373663,
+    "imdb_id": [
+      "tt26762092"
+    ]
   },
   {
     "type": "OVA",
@@ -209071,7 +209196,15 @@
     "anime-planet_id": "parade-de-satie",
     "kitsu_id": 12943,
     "mal_id": 34595,
-    "simkl_id": 1190971
+    "simkl_id": 1190971,
+    "themoviedb_id": {
+      "movie": [
+        406776
+      ]
+    },
+    "imdb_id": [
+      "tt5755446"
+    ]
   },
   {
     "type": "SPECIAL",
@@ -209318,7 +209451,15 @@
     "anisearch_id": 8548,
     "kitsu_id": 7171,
     "mal_id": 14821,
-    "simkl_id": 1827542
+    "simkl_id": 1827542,
+    "themoviedb_id": {
+      "movie": [
+        492220
+      ]
+    },
+    "imdb_id": [
+      "tt1867067"
+    ]
   },
   {
     "type": "MOVIE",
@@ -209351,7 +209492,15 @@
     "anisearch_id": 9735,
     "kitsu_id": 9738,
     "mal_id": 18327,
-    "simkl_id": 1990840
+    "simkl_id": 1990840,
+    "themoviedb_id": {
+      "movie": [
+        821912
+      ]
+    },
+    "imdb_id": [
+      "tt29346139"
+    ]
   },
   {
     "type": "MOVIE",
@@ -209376,7 +209525,15 @@
     "anidb_id": 14611,
     "anisearch_id": 10650,
     "kitsu_id": 10670,
-    "mal_id": 30134
+    "mal_id": 30134,
+    "themoviedb_id": {
+      "movie": [
+        415996
+      ]
+    },
+    "imdb_id": [
+      "tt2008534"
+    ]
   },
   {
     "type": "MOVIE",
@@ -209415,7 +209572,15 @@
     "anisearch_id": 8533,
     "kitsu_id": 7166,
     "mal_id": 14781,
-    "simkl_id": 1599909
+    "simkl_id": 1599909,
+    "themoviedb_id": {
+      "movie": [
+        159387
+      ]
+    },
+    "imdb_id": [
+      "tt1950327"
+    ]
   },
   {
     "type": "TV",
@@ -209531,7 +209696,10 @@
     "kitsu_id": 42405,
     "livechart_id": 9200,
     "mal_id": 39040,
-    "simkl_id": 1020477
+    "simkl_id": 1020477,
+    "themoviedb_id": {
+      "tv": 272662
+    }
   },
   {
     "type": "MOVIE",
@@ -210688,7 +210856,14 @@
     "animecountdown_id": 1190201,
     "anime-planet_id": "rainbow-ruby",
     "mal_id": 41277,
-    "simkl_id": 1190201
+    "simkl_id": 1190201,
+    "themoviedb_id": {
+      "tv": 70983
+    },
+    "tvdb_id": 314976,
+    "imdb_id": [
+      "tt5828144"
+    ]
   },
   {
     "type": "OVA",
@@ -210759,7 +210934,10 @@
     "tvdb_id": 357354,
     "imdb_id": [
       "tt9527662"
-    ]
+    ],
+    "themoviedb_id": {
+      "tv": 273454
+    }
   },
   {
     "type": "TV",
@@ -211217,7 +211395,12 @@
     "kitsu_id": 46584,
     "livechart_id": 8509,
     "mal_id": 38419,
-    "simkl_id": 1239423
+    "simkl_id": 1239423,
+    "themoviedb_id": {
+      "movie": [
+        1040719
+      ]
+    }
   },
   {
     "type": "TV",
@@ -212382,7 +212565,10 @@
     "kitsu_id": 42594,
     "livechart_id": 9399,
     "mal_id": 39628,
-    "simkl_id": 1067029
+    "simkl_id": 1067029,
+    "themoviedb_id": {
+      "tv": 196638
+    }
   },
   {
     "type": "ONA",
@@ -213285,7 +213471,15 @@
     "kitsu_id": 42293,
     "livechart_id": 9424,
     "mal_id": 59773,
-    "simkl_id": 1081835
+    "simkl_id": 1081835,
+    "themoviedb_id": {
+      "movie": [
+        719087
+      ]
+    },
+    "imdb_id": [
+      "tt12343526"
+    ]
   },
   {
     "type": "ONA",
@@ -214421,7 +214615,10 @@
     "kitsu_id": 42419,
     "livechart_id": 9473,
     "mal_id": 39979,
-    "simkl_id": 1119541
+    "simkl_id": 1119541,
+    "themoviedb_id": {
+      "tv": 91890
+    }
   },
   {
     "anidb_id": 14974
@@ -214571,7 +214768,10 @@
     "simkl_id": 1122919,
     "imdb_id": [
       "tt13022842"
-    ]
+    ],
+    "themoviedb_id": {
+      "tv": 217857
+    }
   },
   {
     "type": "TV",
@@ -215585,7 +215785,15 @@
     "kitsu_id": 44896,
     "livechart_id": 12029,
     "mal_id": 42906,
-    "simkl_id": 2055206
+    "simkl_id": 2055206,
+    "themoviedb_id": {
+      "movie": [
+        862348
+      ]
+    },
+    "imdb_id": [
+      "tt10240742"
+    ]
   },
   {
     "anidb_id": 15052
@@ -215952,7 +216160,10 @@
     "anilist_id": 113288,
     "imdb_id": [
       "tt6501292"
-    ]
+    ],
+    "themoviedb_id": {
+      "tv": 104366
+    }
   },
   {
     "type": "TV",
@@ -216094,7 +216305,10 @@
     "anisearch_id": 15124,
     "livechart_id": 9407,
     "mal_id": 39664,
-    "simkl_id": 1164137
+    "simkl_id": 1164137,
+    "themoviedb_id": {
+      "tv": 104961
+    }
   },
   {
     "type": "TV",
@@ -217077,7 +217291,12 @@
     "anisearch_id": 14819,
     "livechart_id": 9640,
     "mal_id": 40543,
-    "simkl_id": 1187405
+    "simkl_id": 1187405,
+    "themoviedb_id": {
+      "movie": [
+        659894
+      ]
+    }
   },
   {
     "type": "TV",
@@ -217144,7 +217363,10 @@
     "anisearch_id": 15104,
     "kitsu_id": 9829,
     "mal_id": 19501,
-    "simkl_id": 1188783
+    "simkl_id": 1188783,
+    "themoviedb_id": {
+      "tv": 296373
+    }
   },
   {
     "type": "ONA",
@@ -219834,7 +220056,15 @@
     "kitsu_id": 42985,
     "livechart_id": 9770,
     "mal_id": 41102,
-    "simkl_id": 1243711
+    "simkl_id": 1243711,
+    "themoviedb_id": {
+      "movie": [
+        1021315
+      ]
+    },
+    "imdb_id": [
+      "tt21988462"
+    ]
   },
   {
     "type": "TV",
@@ -220497,7 +220727,10 @@
     "kitsu_id": 44220,
     "livechart_id": 9810,
     "mal_id": 41349,
-    "simkl_id": 1265179
+    "simkl_id": 1265179,
+    "themoviedb_id": {
+      "tv": 197485
+    }
   },
   {
     "anidb_id": 15403,
@@ -220712,7 +220945,10 @@
     "kitsu_id": 43036,
     "livechart_id": 9817,
     "mal_id": 41384,
-    "simkl_id": 1292967
+    "simkl_id": 1292967,
+    "themoviedb_id": {
+      "tv": 128051
+    }
   },
   {
     "type": "TV",
@@ -220796,7 +221032,12 @@
     "livechart_id": 9826,
     "mal_id": 42296,
     "simkl_id": 1294397,
-    "animenewsnetwork_id": 23571
+    "animenewsnetwork_id": 23571,
+    "themoviedb_id": {
+      "movie": [
+        1192238
+      ]
+    }
   },
   {
     "type": "ONA",
@@ -221184,7 +221425,11 @@
     "kitsu_id": 43299,
     "livechart_id": 9846,
     "mal_id": 41470,
-    "simkl_id": 1300371
+    "simkl_id": 1300371,
+    "themoviedb_id": {
+      "tv": 217582
+    },
+    "tvdb_id": 379913
   },
   {
     "type": "ONA",
@@ -222117,7 +222362,15 @@
     "anisearch_id": 15345,
     "livechart_id": 9893,
     "mal_id": 41734,
-    "simkl_id": 1324963
+    "simkl_id": 1324963,
+    "themoviedb_id": {
+      "movie": [
+        734281
+      ]
+    },
+    "imdb_id": [
+      "tt21301954"
+    ]
   },
   {
     "type": "ONA",
@@ -222564,7 +222817,12 @@
     "anisearch_id": 15330,
     "kitsu_id": 9284,
     "mal_id": 27651,
-    "simkl_id": 1341199
+    "simkl_id": 1341199,
+    "themoviedb_id": {
+      "movie": [
+        1520618
+      ]
+    }
   },
   {
     "type": "TV",
@@ -225020,7 +225278,10 @@
     "animenewsnetwork_id": 24035,
     "imdb_id": [
       "tt13084262"
-    ]
+    ],
+    "themoviedb_id": {
+      "tv": 194876
+    }
   },
   {
     "type": "TV",
@@ -225588,7 +225849,11 @@
     "simkl_id": 1451709,
     "imdb_id": [
       "tt13359548"
-    ]
+    ],
+    "themoviedb_id": {
+      "tv": 114593
+    },
+    "tvdb_id": 390277
   },
   {
     "type": "TV",
@@ -225636,7 +225901,11 @@
     "kitsu_id": 43608,
     "livechart_id": 10113,
     "mal_id": 42657,
-    "simkl_id": 1447435
+    "simkl_id": 1447435,
+    "themoviedb_id": {
+      "tv": 114590
+    },
+    "tvdb_id": 389557
   },
   {
     "type": "TV",
@@ -225674,7 +225943,12 @@
     "anime-planet_id": "xin-yu-gong-yu-shan",
     "anisearch_id": 15688,
     "mal_id": 42815,
-    "simkl_id": 1695151
+    "simkl_id": 1695151,
+    "themoviedb_id": {
+      "movie": [
+        729993
+      ]
+    }
   },
   {
     "type": "ONA",
@@ -225809,7 +226083,13 @@
     "kitsu_id": 43672,
     "livechart_id": 10180,
     "mal_id": 43350,
-    "simkl_id": 1455325
+    "simkl_id": 1455325,
+    "themoviedb_id": {
+      "tv": 202482
+    },
+    "imdb_id": [
+      "tt20419902"
+    ]
   },
   {
     "type": "SPECIAL",
@@ -227904,7 +228184,12 @@
     "anisearch_id": 17182,
     "livechart_id": 10115,
     "mal_id": 42667,
-    "simkl_id": 1510059
+    "simkl_id": 1510059,
+    "themoviedb_id": {
+      "movie": [
+        732870
+      ]
+    }
   },
   {
     "type": "TV",
@@ -228228,7 +228513,12 @@
     "kitsu_id": 46544,
     "livechart_id": 10322,
     "mal_id": 45731,
-    "simkl_id": 1519483
+    "simkl_id": 1519483,
+    "themoviedb_id": {
+      "movie": [
+        975637
+      ]
+    }
   },
   {
     "type": "ONA",
@@ -228694,7 +228984,12 @@
     "kitsu_id": 43896,
     "livechart_id": 10361,
     "mal_id": 46491,
-    "simkl_id": 1573471
+    "simkl_id": 1573471,
+    "themoviedb_id": {
+      "movie": [
+        791235
+      ]
+    }
   },
   {
     "type": "TV",
@@ -228759,7 +229054,10 @@
     "mal_id": 46650,
     "simkl_id": 1530947,
     "themoviedb_id": {
-      "tv": 119787
+      "tv": 119787,
+      "movie": [
+        850647
+      ]
     },
     "tvdb_id": 392944,
     "season": {
@@ -229755,7 +230053,11 @@
     "livechart_id": 10441,
     "mal_id": 48495,
     "simkl_id": 1557629,
-    "animenewsnetwork_id": 24101
+    "animenewsnetwork_id": 24101,
+    "themoviedb_id": {
+      "tv": 195830
+    },
+    "tvdb_id": 402545
   },
   {
     "anidb_id": 16086
@@ -230905,7 +231207,12 @@
     "kitsu_id": 44421,
     "livechart_id": 10493,
     "mal_id": 48573,
-    "simkl_id": 1579157
+    "simkl_id": 1579157,
+    "themoviedb_id": {
+      "movie": [
+        994315
+      ]
+    }
   },
   {
     "type": "TV",
@@ -231308,7 +231615,12 @@
     "anisearch_id": 16201,
     "livechart_id": 10520,
     "mal_id": 48703,
-    "simkl_id": 1608961
+    "simkl_id": 1608961,
+    "themoviedb_id": {
+      "movie": [
+        877843
+      ]
+    }
   },
   {
     "anidb_id": 16198
@@ -231501,7 +231813,15 @@
     "anisearch_id": 16245,
     "livechart_id": 10527,
     "mal_id": 49843,
-    "simkl_id": 1613163
+    "simkl_id": 1613163,
+    "themoviedb_id": {
+      "movie": [
+        994313
+      ]
+    },
+    "imdb_id": [
+      "tt31309290"
+    ]
   },
   {
     "type": "ONA",
@@ -231535,7 +231855,12 @@
     "anisearch_id": 16393,
     "livechart_id": 10532,
     "mal_id": 49369,
-    "simkl_id": 1613167
+    "simkl_id": 1613167,
+    "themoviedb_id": {
+      "movie": [
+        843245
+      ]
+    }
   },
   {
     "type": "TV",
@@ -231902,7 +232227,15 @@
     "kitsu_id": 50692,
     "livechart_id": 10557,
     "mal_id": 48832,
-    "simkl_id": 1623355
+    "simkl_id": 1623355,
+    "themoviedb_id": {
+      "movie": [
+        823271
+      ]
+    },
+    "imdb_id": [
+      "tt14576898"
+    ]
   },
   {
     "type": "TV",
@@ -232967,7 +233300,10 @@
     "livechart_id": 10655,
     "mal_id": 49221,
     "simkl_id": 1658233,
-    "animenewsnetwork_id": 24459
+    "animenewsnetwork_id": 24459,
+    "themoviedb_id": {
+      "tv": 202440
+    }
   },
   {
     "type": "SPECIAL",
@@ -233114,7 +233450,11 @@
     "simkl_id": 1664121,
     "imdb_id": [
       "tt27588717"
-    ]
+    ],
+    "themoviedb_id": {
+      "tv": 210701
+    },
+    "tvdb_id": 423730
   },
   {
     "type": "ONA",
@@ -233577,7 +233917,15 @@
     "anisearch_id": 16857,
     "livechart_id": 10452,
     "mal_id": 48951,
-    "simkl_id": 1676723
+    "simkl_id": 1676723,
+    "themoviedb_id": {
+      "movie": [
+        886308
+      ]
+    },
+    "imdb_id": [
+      "tt15489976"
+    ]
   },
   {
     "type": "TV",
@@ -234848,7 +235196,14 @@
     "anisearch_id": 14980,
     "mal_id": 42740,
     "animecountdown_id": 3246092,
-    "simkl_id": 3246092
+    "simkl_id": 3246092,
+    "themoviedb_id": {
+      "tv": 83509
+    },
+    "tvdb_id": 355250,
+    "imdb_id": [
+      "tt8697082"
+    ]
   },
   {
     "type": "MOVIE",
@@ -235172,7 +235527,15 @@
     "livechart_id": 10122,
     "mal_id": 44585,
     "simkl_id": 1728853,
-    "animenewsnetwork_id": 23575
+    "animenewsnetwork_id": 23575,
+    "themoviedb_id": {
+      "movie": [
+        734871
+      ]
+    },
+    "imdb_id": [
+      "tt14722156"
+    ]
   },
   {
     "type": "ONA",
@@ -236389,7 +236752,15 @@
     "kitsu_id": 44173,
     "livechart_id": 11090,
     "mal_id": 49409,
-    "simkl_id": 1728865
+    "simkl_id": 1728865,
+    "themoviedb_id": {
+      "movie": [
+        795607
+      ]
+    },
+    "imdb_id": [
+      "tt15000314"
+    ]
   },
   {
     "type": "ONA",
@@ -236422,7 +236793,15 @@
     "anime-planet_id": "yong-zhi-cheng",
     "anisearch_id": 16775,
     "mal_id": 51601,
-    "simkl_id": 1728877
+    "simkl_id": 1728877,
+    "themoviedb_id": {
+      "movie": [
+        844158
+      ]
+    },
+    "imdb_id": [
+      "tt10075380"
+    ]
   },
   {
     "type": "ONA",
@@ -238702,7 +239081,12 @@
     "anisearch_id": 16669,
     "mal_id": 50191,
     "simkl_id": 1758949,
-    "animenewsnetwork_id": 24891
+    "animenewsnetwork_id": 24891,
+    "themoviedb_id": {
+      "movie": [
+        1356044
+      ]
+    }
   },
   {
     "type": "TV",
@@ -238715,7 +239099,10 @@
     "kitsu_id": 45223,
     "livechart_id": 10703,
     "mal_id": 49431,
-    "simkl_id": 1759727
+    "simkl_id": 1759727,
+    "themoviedb_id": {
+      "tv": 136935
+    }
   },
   {
     "type": "MOVIE",
@@ -238843,7 +239230,10 @@
     "kitsu_id": 45274,
     "livechart_id": 10183,
     "mal_id": 43416,
-    "simkl_id": 1816796
+    "simkl_id": 1816796,
+    "themoviedb_id": {
+      "tv": 111449
+    }
   },
   {
     "type": "TV",
@@ -240436,7 +240826,12 @@
     "anime-planet_id": "eiga-oshiri-tantei-yume-no-jumbo-sweet-potato-matsuri",
     "anisearch_id": 17143,
     "mal_id": 61313,
-    "simkl_id": 1808254
+    "simkl_id": 1808254,
+    "themoviedb_id": {
+      "movie": [
+        1653021
+      ]
+    }
   },
   {
     "type": "ONA",
@@ -240886,7 +241281,10 @@
     "kitsu_id": 45824,
     "livechart_id": 10972,
     "mal_id": 50681,
-    "simkl_id": 1814874
+    "simkl_id": 1814874,
+    "themoviedb_id": {
+      "tv": 158908
+    }
   },
   {
     "type": "MOVIE",
@@ -241011,7 +241409,12 @@
     "anime-planet_id": "horror-of-the-underworld",
     "anisearch_id": 17129,
     "mal_id": 53794,
-    "simkl_id": 1816214
+    "simkl_id": 1816214,
+    "themoviedb_id": {
+      "movie": [
+        960737
+      ]
+    }
   },
   {
     "type": "ONA",
@@ -241569,7 +241972,15 @@
     "kitsu_id": 46332,
     "livechart_id": 11094,
     "mal_id": 51334,
-    "simkl_id": 2051912
+    "simkl_id": 2051912,
+    "themoviedb_id": {
+      "movie": [
+        844075
+      ]
+    },
+    "imdb_id": [
+      "tt19757204"
+    ]
   },
   {
     "type": "ONA",
@@ -242561,7 +242972,12 @@
     "anisearch_id": 17188,
     "livechart_id": 11109,
     "mal_id": 51147,
-    "simkl_id": 1860928
+    "simkl_id": 1860928,
+    "themoviedb_id": {
+      "movie": [
+        944703
+      ]
+    }
   },
   {
     "type": "ONA",
@@ -242607,7 +243023,12 @@
     "anisearch_id": 18120,
     "kitsu_id": 46195,
     "mal_id": 50872,
-    "simkl_id": 2055204
+    "simkl_id": 2055204,
+    "themoviedb_id": {
+      "movie": [
+        863722
+      ]
+    }
   },
   {
     "type": "TV",
@@ -243666,7 +244087,12 @@
     "kitsu_id": 46543,
     "livechart_id": 11172,
     "mal_id": 51539,
-    "simkl_id": 1883414
+    "simkl_id": 1883414,
+    "themoviedb_id": {
+      "movie": [
+        967265
+      ]
+    }
   },
   {
     "type": "SPECIAL",
@@ -247255,7 +247681,15 @@
     "anisearch_id": 17666,
     "livechart_id": 11472,
     "mal_id": 53403,
-    "simkl_id": 1989312
+    "simkl_id": 1989312,
+    "themoviedb_id": {
+      "movie": [
+        1021630
+      ]
+    },
+    "imdb_id": [
+      "tt22006444"
+    ]
   },
   {
     "type": "TV",
@@ -248483,7 +248917,15 @@
     "livechart_id": 11182,
     "mal_id": 52992,
     "simkl_id": 2026534,
-    "animenewsnetwork_id": 24816
+    "animenewsnetwork_id": 24816,
+    "themoviedb_id": {
+      "movie": [
+        969044
+      ]
+    },
+    "imdb_id": [
+      "tt24580508"
+    ]
   },
   {
     "type": "TV",
@@ -249161,7 +249603,12 @@
     "livechart_id": 11638,
     "mal_id": 53634,
     "simkl_id": 2038380,
-    "animenewsnetwork_id": 26584
+    "animenewsnetwork_id": 26584,
+    "themoviedb_id": {
+      "movie": [
+        1068525
+      ]
+    }
   },
   {
     "type": "ONA",
@@ -249187,7 +249634,10 @@
     "kitsu_id": 46775,
     "livechart_id": 11659,
     "mal_id": 53655,
-    "simkl_id": 2101584
+    "simkl_id": 2101584,
+    "themoviedb_id": {
+      "tv": 214899
+    }
   },
   {
     "type": "OVA",
@@ -250720,7 +251170,15 @@
     "kitsu_id": 47017,
     "livechart_id": 11785,
     "mal_id": 54250,
-    "simkl_id": 2076802
+    "simkl_id": 2076802,
+    "themoviedb_id": {
+      "movie": [
+        1526917
+      ]
+    },
+    "imdb_id": [
+      "tt38864557"
+    ]
   },
   {
     "type": "TV",
@@ -251477,7 +251935,10 @@
     "tvdb_id": 431683,
     "themoviedb_id": {
       "tv": 221313
-    }
+    },
+    "imdb_id": [
+      "tt28212662"
+    ]
   },
   {
     "type": "ONA",
@@ -252245,7 +252706,10 @@
     "kitsu_id": 47559,
     "livechart_id": 11887,
     "mal_id": 54781,
-    "simkl_id": 2125336
+    "simkl_id": 2125336,
+    "themoviedb_id": {
+      "tv": 222730
+    }
   },
   {
     "type": "TV",
@@ -252330,7 +252794,12 @@
     "kitsu_id": 47212,
     "livechart_id": 11894,
     "mal_id": 54796,
-    "simkl_id": 2125444
+    "simkl_id": 2125444,
+    "themoviedb_id": {
+      "movie": [
+        1179050
+      ]
+    }
   },
   {
     "type": "OVA",
@@ -253204,7 +253673,13 @@
     "anisearch_id": 20618,
     "kitsu_id": 47415,
     "mal_id": 55020,
-    "simkl_id": 2132990
+    "simkl_id": 2132990,
+    "themoviedb_id": {
+      "tv": 254024
+    },
+    "imdb_id": [
+      "tt33022388"
+    ]
   },
   {
     "type": "SPECIAL",
@@ -254397,7 +254872,13 @@
     "anisearch_id": 18934,
     "livechart_id": 12116,
     "mal_id": 55948,
-    "simkl_id": 2193172
+    "simkl_id": 2193172,
+    "themoviedb_id": {
+      "tv": 259721
+    },
+    "imdb_id": [
+      "tt32280849"
+    ]
   },
   {
     "type": "TV",
@@ -257115,7 +257596,12 @@
     "anisearch_id": 19278,
     "kitsu_id": 10273,
     "mal_id": 29207,
-    "simkl_id": 2660012
+    "simkl_id": 2660012,
+    "themoviedb_id": {
+      "movie": [
+        994367
+      ]
+    }
   },
   {
     "type": "ONA",
@@ -259919,7 +260405,15 @@
     "livechart_id": 11612,
     "mal_id": 57961,
     "simkl_id": 2360178,
-    "animenewsnetwork_id": 31846
+    "animenewsnetwork_id": 31846,
+    "themoviedb_id": {
+      "movie": [
+        1236857
+      ]
+    },
+    "imdb_id": [
+      "tt31068334"
+    ]
   },
   {
     "type": "ONA",
@@ -261368,7 +261862,12 @@
     "kitsu_id": 49020,
     "livechart_id": 12527,
     "mal_id": 58091,
-    "simkl_id": 2413560
+    "simkl_id": 2413560,
+    "themoviedb_id": {
+      "movie": [
+        1266097
+      ]
+    }
   },
   {
     "type": "ONA",
@@ -262323,7 +262822,14 @@
     "livechart_id": 12657,
     "mal_id": 58849,
     "simkl_id": 2463868,
-    "animenewsnetwork_id": 32730
+    "animenewsnetwork_id": 32730,
+    "themoviedb_id": {
+      "tv": 254286
+    },
+    "tvdb_id": 465532,
+    "imdb_id": [
+      "tt32368808"
+    ]
   },
   {
     "type": "TV",
@@ -263996,7 +264502,11 @@
     "livechart_id": 12739,
     "mal_id": 59409,
     "simkl_id": 2507720,
-    "animenewsnetwork_id": 32867
+    "animenewsnetwork_id": 32867,
+    "themoviedb_id": {
+      "tv": 288049
+    },
+    "tvdb_id": 451869
   },
   {
     "type": "MOVIE",
@@ -264133,7 +264643,11 @@
     "anisearch_id": 19145,
     "livechart_id": 12589,
     "mal_id": 59011,
-    "simkl_id": 2510238
+    "simkl_id": 2510238,
+    "themoviedb_id": {
+      "tv": 257046
+    },
+    "tvdb_id": 451886
   },
   {
     "type": "ONA",
@@ -264566,7 +265080,12 @@
     "kitsu_id": 49068,
     "livechart_id": 12767,
     "mal_id": 59406,
-    "simkl_id": 2525756
+    "simkl_id": 2525756,
+    "themoviedb_id": {
+      "movie": [
+        1406243
+      ]
+    }
   },
   {
     "type": "TV",
@@ -265241,7 +265760,11 @@
     "kitsu_id": 49125,
     "livechart_id": 12699,
     "mal_id": 59148,
-    "simkl_id": 2595994
+    "simkl_id": 2595994,
+    "themoviedb_id": {
+      "tv": 256798
+    },
+    "tvdb_id": 451161
   },
   {
     "type": "TV",
@@ -265578,7 +266101,11 @@
     "kitsu_id": 48951,
     "livechart_id": 12663,
     "mal_id": 58935,
-    "simkl_id": 2559130
+    "simkl_id": 2559130,
+    "themoviedb_id": {
+      "tv": 255084
+    },
+    "tvdb_id": 450170
   },
   {
     "type": "MOVIE",
@@ -265991,13 +266518,19 @@
     "mal_id": 59848,
     "simkl_id": 2583082,
     "themoviedb_id": {
-      "tv": 271604
+      "tv": 271604,
+      "movie": [
+        1360829
+      ]
     },
     "tvdb_id": 454529,
     "season": {
       "tvdb": 1,
       "tmdb": 1
-    }
+    },
+    "imdb_id": [
+      "tt33384612"
+    ]
   },
   {
     "type": "TV",
@@ -269135,7 +269668,15 @@
     "anisearch_id": 19427,
     "kitsu_id": 47907,
     "mal_id": 57801,
-    "simkl_id": 2672494
+    "simkl_id": 2672494,
+    "themoviedb_id": {
+      "movie": [
+        1207123
+      ]
+    },
+    "imdb_id": [
+      "tt30836045"
+    ]
   },
   {
     "type": "TV",
@@ -269490,7 +270031,15 @@
     "anisearch_id": 20104,
     "kitsu_id": 50099,
     "mal_id": 60805,
-    "simkl_id": 2687254
+    "simkl_id": 2687254,
+    "themoviedb_id": {
+      "movie": [
+        1249728
+      ]
+    },
+    "imdb_id": [
+      "tt31888603"
+    ]
   },
   {
     "type": "MOVIE",
@@ -269916,7 +270465,15 @@
     "livechart_id": 12671,
     "mal_id": 58894,
     "simkl_id": 2743496,
-    "animenewsnetwork_id": 32753
+    "animenewsnetwork_id": 32753,
+    "themoviedb_id": {
+      "movie": [
+        1294084
+      ]
+    },
+    "imdb_id": [
+      "tt36022728"
+    ]
   },
   {
     "type": "TV",
@@ -270131,7 +270688,15 @@
     "kitsu_id": 50166,
     "livechart_id": 13063,
     "mal_id": 61041,
-    "simkl_id": 2720122
+    "simkl_id": 2720122,
+    "themoviedb_id": {
+      "movie": [
+        1479380
+      ]
+    },
+    "imdb_id": [
+      "tt37899179"
+    ]
   },
   {
     "type": "TV",
@@ -271329,7 +271894,15 @@
     "anisearch_id": 20155,
     "livechart_id": 13032,
     "mal_id": 60962,
-    "simkl_id": 2747922
+    "simkl_id": 2747922,
+    "themoviedb_id": {
+      "movie": [
+        1504914
+      ]
+    },
+    "imdb_id": [
+      "tt37529019"
+    ]
   },
   {
     "type": "TV",
@@ -273678,7 +274251,15 @@
     "kitsu_id": 50015,
     "livechart_id": 13225,
     "mal_id": 61984,
-    "simkl_id": 2830468
+    "simkl_id": 2830468,
+    "themoviedb_id": {
+      "movie": [
+        1508427
+      ]
+    },
+    "imdb_id": [
+      "tt37529048"
+    ]
   },
   {
     "type": "TV",
@@ -274791,7 +275372,12 @@
     "anisearch_id": 20914,
     "livechart_id": 13274,
     "mal_id": 62269,
-    "simkl_id": 2859722
+    "simkl_id": 2859722,
+    "themoviedb_id": {
+      "movie": [
+        1536040
+      ]
+    }
   },
   {
     "type": "MOVIE",
@@ -274887,7 +275473,10 @@
     "mal_id": 62312,
     "simkl_id": 2863434,
     "themoviedb_id": {
-      "tv": 298754
+      "tv": 298754,
+      "movie": [
+        1725074
+      ]
     },
     "tvdb_id": 466791,
     "season": {
@@ -275397,7 +275986,12 @@
     "kitsu_id": 50705,
     "livechart_id": 12724,
     "mal_id": 59231,
-    "simkl_id": 2997916
+    "simkl_id": 2997916,
+    "themoviedb_id": {
+      "movie": [
+        1356136
+      ]
+    }
   },
   {
     "type": "TV",
@@ -276225,7 +276819,15 @@
     "animecountdown_id": 2898754,
     "anisearch_id": 19348,
     "mal_id": 56262,
-    "simkl_id": 2898754
+    "simkl_id": 2898754,
+    "themoviedb_id": {
+      "movie": [
+        1148189
+      ]
+    },
+    "imdb_id": [
+      "tt28554423"
+    ]
   },
   {
     "type": "MOVIE",
@@ -276238,7 +276840,15 @@
     "kitsu_id": 49731,
     "livechart_id": 13105,
     "mal_id": 61278,
-    "simkl_id": 2895420
+    "simkl_id": 2895420,
+    "themoviedb_id": {
+      "movie": [
+        1504111
+      ]
+    },
+    "imdb_id": [
+      "tt38859765"
+    ]
   },
   {
     "type": "TV",
@@ -276650,7 +277260,14 @@
     "animecountdown_id": 2926052,
     "anime-planet_id": "rainbow-bubblegem",
     "mal_id": 56916,
-    "simkl_id": 2926052
+    "simkl_id": 2926052,
+    "themoviedb_id": {
+      "tv": 233464
+    },
+    "tvdb_id": 441860,
+    "imdb_id": [
+      "tt28612352"
+    ]
   },
   {
     "type": "TV",
@@ -276671,7 +277288,10 @@
     "anisearch_id": 20179,
     "livechart_id": 13035,
     "mal_id": 61197,
-    "simkl_id": 2909614
+    "simkl_id": 2909614,
+    "themoviedb_id": {
+      "tv": 285388
+    }
   },
   {
     "type": "UNKNOWN",
@@ -276904,7 +277524,15 @@
     "kitsu_id": 50330,
     "livechart_id": 12400,
     "mal_id": 62805,
-    "simkl_id": 2926054
+    "simkl_id": 2926054,
+    "themoviedb_id": {
+      "movie": [
+        1520936
+      ]
+    },
+    "imdb_id": [
+      "tt38828026"
+    ]
   },
   {
     "type": "ONA",
@@ -405808,6 +406436,19 @@
   {
     "type": "TV",
     "mal_id": 65397
+  },
+  {
+    "imdb_id": [
+      "tt0480489"
+    ],
+    "themoviedb_id": {
+      "tv": 42671
+    },
+    "tvdb_id": 75941,
+    "season": {
+      "tvdb": 0,
+      "tmdb": 0
+    }
   },
   {
     "imdb_id": [
