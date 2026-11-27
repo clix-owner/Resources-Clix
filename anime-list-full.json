@@ -396575,7 +396575,15 @@
     "anime-planet_id": "boonie-bears-the-wild-life",
     "anisearch_id": 15611,
     "mal_id": 48126,
-    "anidb_id": 17842
+    "anidb_id": 17842,
+    "themoviedb_id": {
+      "movie": [
+        796039
+      ]
+    },
+    "imdb_id": [
+      "tt11654032"
+    ]
   },
   {
     "type": "MOVIE",
@@ -397044,7 +397052,12 @@
     "anilist_id": 110491,
     "anime-planet_id": "ya-ne-sen-a-go-go",
     "kitsu_id": 42750,
-    "mal_id": 38702
+    "mal_id": 38702,
+    "themoviedb_id": {
+      "movie": [
+        522705
+      ]
+    }
   },
   {
     "type": "SPECIAL",
@@ -397327,7 +397340,15 @@
     "anilist_id": 148075,
     "anime-planet_id": "yamakagashi",
     "kitsu_id": 46956,
-    "mal_id": 49194
+    "mal_id": 49194,
+    "themoviedb_id": {
+      "movie": [
+        568544
+      ]
+    },
+    "imdb_id": [
+      "tt2027278"
+    ]
   },
   {
     "type": "ONA",
@@ -397353,7 +397374,15 @@
     "livechart_id": 12086,
     "mal_id": 54602,
     "anidb_id": 17991,
-    "animenewsnetwork_id": 27192
+    "animenewsnetwork_id": 27192,
+    "themoviedb_id": {
+      "movie": [
+        1090213
+      ]
+    },
+    "imdb_id": [
+      "tt26776509"
+    ]
   },
   {
     "type": "MOVIE",
@@ -397985,7 +398014,12 @@
     "anilist_id": 121044,
     "anime-planet_id": "yellow-fish",
     "kitsu_id": 44964,
-    "mal_id": 42277
+    "mal_id": 42277,
+    "themoviedb_id": {
+      "movie": [
+        601638
+      ]
+    }
   },
   {
     "type": "MOVIE",
@@ -398600,7 +398634,15 @@
     "anisearch_id": 12967,
     "kitsu_id": 41952,
     "mal_id": 36030,
-    "anidb_id": 15991
+    "anidb_id": 15991,
+    "themoviedb_id": {
+      "movie": [
+        695638
+      ]
+    },
+    "imdb_id": [
+      "tt28317685"
+    ]
   },
   {
     "type": "SPECIAL",
@@ -398813,7 +398855,10 @@
     "mal_id": 59685,
     "anidb_id": 20544,
     "simkl_id": 3323578,
-    "animecountdown_id": 3323578
+    "animecountdown_id": 3323578,
+    "themoviedb_id": {
+      "tv": 276632
+    }
   },
   {
     "type": "MOVIE",
@@ -400345,7 +400390,12 @@
     "anilist_id": 114749,
     "anime-planet_id": "yumemi-no-e",
     "kitsu_id": 42891,
-    "mal_id": 40238
+    "mal_id": 40238,
+    "themoviedb_id": {
+      "movie": [
+        621794
+      ]
+    }
   },
   {
     "type": "SPECIAL",
@@ -400584,7 +400634,10 @@
     "anilist_id": 189716,
     "anime-planet_id": "yurukawa-mell-chan",
     "mal_id": 61379,
-    "anidb_id": 19453
+    "anidb_id": 19453,
+    "themoviedb_id": {
+      "tv": 296170
+    }
   },
   {
     "type": "ONA",
@@ -402049,7 +402102,15 @@
   {
     "type": "MOVIE",
     "anime-planet_id": "zhongji-da-maoxian",
-    "mal_id": 52704
+    "mal_id": 52704,
+    "themoviedb_id": {
+      "movie": [
+        1320431
+      ]
+    },
+    "imdb_id": [
+      "tt6009496"
+    ]
   },
   {
     "type": "MOVIE",
@@ -402158,7 +402219,12 @@
   {
     "type": "MOVIE",
     "anisearch_id": 21678,
-    "mal_id": 57464
+    "mal_id": 57464,
+    "themoviedb_id": {
+      "movie": [
+        1260260
+      ]
+    }
   },
   {
     "type": "TV",
@@ -402422,7 +402488,14 @@
     "type": "TV",
     "anime-planet_id": "zombie-dumb",
     "anisearch_id": 15292,
-    "mal_id": 48323
+    "mal_id": 48323,
+    "themoviedb_id": {
+      "tv": 72479
+    },
+    "tvdb_id": 327407,
+    "imdb_id": [
+      "tt11163090"
+    ]
   },
   {
     "type": "TV",
@@ -402454,7 +402527,10 @@
     "anisearch_id": 17363,
     "kitsu_id": 47248,
     "mal_id": 51685,
-    "tvdb_id": 430313
+    "tvdb_id": 430313,
+    "themoviedb_id": {
+      "tv": 197953
+    }
   },
   {
     "type": "SPECIAL",
@@ -402493,7 +402569,12 @@
     "anime-planet_id": "zoo-hidamari-no-shi",
     "anisearch_id": 17786,
     "kitsu_id": 44613,
-    "mal_id": 38078
+    "mal_id": 38078,
+    "themoviedb_id": {
+      "movie": [
+        726057
+      ]
+    }
   },
   {
     "type": "SPECIAL",
@@ -402559,7 +402640,10 @@
     "animecountdown_id": 1573273,
     "anime-planet_id": "zui-hou-jueding-ai-shang-ni",
     "anisearch_id": 13257,
-    "simkl_id": 1573273
+    "simkl_id": 1573273,
+    "themoviedb_id": {
+      "tv": 194915
+    }
   },
   {
     "type": "TV",
@@ -402885,7 +402969,11 @@
     "animecountdown_id": 3183626,
     "anime-planet_id": "kizuguchi-to-houtai",
     "simkl_id": 3183626,
-    "anisearch_id": 21845
+    "anisearch_id": 21845,
+    "themoviedb_id": {
+      "tv": 328525
+    },
+    "tvdb_id": 480173
   },
   {
     "type": "ONA",
@@ -403011,11 +403099,19 @@
   },
   {
     "type": "TV",
-    "mal_id": 64680
+    "mal_id": 64680,
+    "themoviedb_id": {
+      "tv": 320006
+    }
   },
   {
     "type": "MOVIE",
-    "mal_id": 64681
+    "mal_id": 64681,
+    "themoviedb_id": {
+      "movie": [
+        1690479
+      ]
+    }
   },
   {
     "type": "MOVIE",
@@ -403218,7 +403314,10 @@
     "livechart_id": 13757,
     "anidb_id": 20403,
     "anisearch_id": 22028,
-    "anilist_id": 220004
+    "anilist_id": 220004,
+    "themoviedb_id": {
+      "tv": 337997
+    }
   },
   {
     "type": "ONA",
@@ -403933,7 +404032,10 @@
     "livechart_id": 13729,
     "mal_id": 64667,
     "simkl_id": 3193832,
-    "tvdb_id": 480612
+    "tvdb_id": 480612,
+    "themoviedb_id": {
+      "tv": 329546
+    }
   },
   {
     "type": "MOVIE",
@@ -408296,6 +408398,19 @@
   {
     "type": "SPECIAL",
     "mal_id": 65510
+  },
+  {
+    "imdb_id": [
+      "tt0480489"
+    ],
+    "themoviedb_id": {
+      "tv": 42671
+    },
+    "tvdb_id": 75941,
+    "season": {
+      "tvdb": 0,
+      "tmdb": 0
+    }
   },
   {
     "imdb_id": [
